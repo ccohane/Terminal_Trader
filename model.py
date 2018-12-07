@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from  wrapper import Markit
-import mapper
+#import mapper
 import wrapper
 from orm import Database
 import time
